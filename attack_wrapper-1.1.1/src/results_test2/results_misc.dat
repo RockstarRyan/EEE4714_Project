@@ -1,0 +1,12 @@
+Min trace GSR > 80%: 11
+Min trace Min PSR > 80%: 11
+Min trace Max PGE < 10: 11
+Min trace GSR stable > 80%: 11
+Min trace Min PSR stable > 80%: 11
+Min trace Max PGE stable < 10: 11
+GSR at trace 10: 0.00
+Min PSR at trace 10: 0.00
+Max PSR at trace 10: 0.00
+Min PGE at trace 10: 11.00
+Max PGE at trace 10: 236.00
+Mean time / trace: 0.09
