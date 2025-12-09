@@ -3,8 +3,8 @@
 % For simplicity, import data by opening the file in MATLAB, then changing
 %   data variable reference, n, and x below.
 
-data = results_partial_success_rate_all_1;
-n = 20000;
+data = results_partial_success_rate_all_5;
+n = 10;
 x = 16;
 
 x_axis = 0:x-1;
